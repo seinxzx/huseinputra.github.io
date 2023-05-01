@@ -1687,7 +1687,7 @@
 
 
 
-                      <form id="contact_form" class="contact-form" action="contact_form/contact_form.php" method="post">
+                      <form class="contact-form" action="mailto:huseinputrawp@gmail.com" method="get">
 
 
 
@@ -1700,17 +1700,7 @@
                           <div class="fields clearfix">
 
                             <div class="left-column">
-                              <div class="form-group form-group-with-icon">
-
-                                <input id="form_subject" type="text" name="subject" class="form-control" placeholder="" required="required" data-error="Subject is required.">
-
-                                <label>Subject</label>
-
-                                <div class="form-control-border"></div>
-
-                                <div class="help-block with-errors"></div>
-
-                              </div>
+                              
                                
                               <div class="form-group form-group-with-icon">
 
@@ -1758,7 +1748,7 @@
 
                               <div class="form-group form-group-with-icon">
 
-                                <textarea id="form_message" name="message" class="form-control" placeholder="" rows="7" required="required" data-error="Please, leave me a message."></textarea>
+                                <textarea id="form_message" name="body" class="form-control" placeholder="" rows="7" required="required" data-error="Please, leave me a message."></textarea>
 
                                 <label>Message</label>
 
@@ -1774,7 +1764,7 @@
 
 
 
-                          <div class="g-recaptcha" data-sitekey="6LfWtKQeAAAAANABna4DE3JDJmiSfbXbLfh3n24W"></div>
+                          <!-- <div class="g-recaptcha" data-sitekey="6LfWtKQeAAAAANABna4DE3JDJmiSfbXbLfh3n24W"></div> -->
 
       
 
