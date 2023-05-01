@@ -52,6 +52,18 @@
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicons/favicon.ico">
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CCVD570JS"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-3CCVD570JS');
+    </script>
 </head>
 
 <body>
@@ -79,10 +91,10 @@
                 <a href="#" class="menu-btn"><span></span></a>
                 <div class="top-menu">
                     <ul>
-                        <li><a href="/" class="lnk">Home</a></li>
+                        <li class="active"><a href="/" class="lnk">Home</a></li>
                         <li><a href="resume.html" class="lnk">Resume</a></li>
                         <li><a href="portfolio.html" class="lnk">Portfolio</a></li>
-                        <li class="active"><a href="contacts.html" class="btn">Contacts</a></li>
+                        <li><a href="contacts.html" class="btn">Contacts</a></li>
                     </ul>
                 </div>
             </div>
