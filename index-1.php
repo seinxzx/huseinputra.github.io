@@ -1828,7 +1828,7 @@
 
     <script src="js/main.js"></script>
 
-    <script>
+    <!-- <script>
       const body = document.getElementsByTagName('html');
       // stop keyboard shortcuts 
     window.addEventListener("keydown", (event) => {
@@ -1862,7 +1862,7 @@
       document.addEventListener('contextmenu', function(e) {
         e.preventDefault();
       });
-    </script>
+    </script> -->
   </body>
 
 </html>
