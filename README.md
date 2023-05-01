@@ -1,1 +1,0 @@
-This Is My Project and CV yaa Gaiss! dilindungi hak cipta saya!
