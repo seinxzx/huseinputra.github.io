@@ -1,0 +1,18 @@
+[28-Feb-2022 07:11:41 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[28-Feb-2022 07:34:30 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[28-Feb-2022 07:36:49 Asia/Jakarta] PHP Warning:  require_once(/home/seip3122/public_html/contact_form/vendor/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/seip3122/public_html/contact_form/contact_form.php on line 7
+[28-Feb-2022 07:36:49 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/seip3122/public_html/contact_form/vendor/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/seip3122/public_html/contact_form/contact_form.php on line 7
+[28-Feb-2022 07:37:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/seip3122/public_html/contact_form/contact_form.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/seip3122/public_html/contact_form/contact_form.php on line 2
+[28-Feb-2022 07:37:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/seip3122/public_html/contact_form/contact_form.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/seip3122/public_html/contact_form/contact_form.php on line 2
+[28-Feb-2022 07:42:06 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[28-Feb-2022 13:07:02 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[27-Mar-2022 20:56:31 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[01-Apr-2022 20:28:02 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/seip3122/public_html/contact_form/contact_form.php on line 81
+[17-May-2022 14:01:23 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/boby7716/public_html/metasains.com/contact_form/contact_form.php on line 81
+[27-Jul-2022 17:35:33 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/boby7716/public_html/metasains.com/contact_form/contact_form.php on line 81
