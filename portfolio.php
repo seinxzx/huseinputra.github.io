@@ -29,35 +29,25 @@
     <link rel="stylesheet" href="css/glitche-layout.css" />
     <link rel="stylesheet" href="css/ionicons.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
-    <link rel="stylesheet" href="css/animate.css" />
-
-    <!--
-		Template RTL
-	-->
-    <!--<link rel="stylesheet" href="css/rtl.css" />-->
-
-    <!--
-		Template Colors
-	-->
-    <link rel="stylesheet" href="css/template-colors/orange.css" />
-    <!--<link rel="stylesheet" href="css/template-colors/blue.css" />-->
-    <!-- <link rel="stylesheet" href="css/template-colors/green.css" /> -->
-    <!--<link rel="stylesheet" href="css/template-colors/pink.css" />-->
-    <!-- <link rel="stylesheet" href="css/template-colors/purple.css" /> -->
-    <!--<link rel="stylesheet" href="css/template-colors/red.css" />-->
-
+    <link rel="stylesheet" href="css/animate.css" /> 
+    <link rel="stylesheet" href="css/template-colors/orange.css" /> 
     <!--
 		Template Dark
 	-->
     <link rel="stylesheet" href="css/template-dark/dark.css" />
-
-    <!--[if lt IE 9]>
-      <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+ 
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicons/favicon.ico" />
+     <!-- Google tag (gtag.js) -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ0WGD6Q1H"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BJ0WGD6Q1H');
+    </script>
 </head>
 
 <body>
