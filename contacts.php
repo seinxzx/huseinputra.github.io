@@ -88,9 +88,9 @@
                 <div class="top-menu">
                     <ul>
                         <li><a href="/" class="lnk">Home</a></li>
-                        <li><a href="resume.html" class="lnk">Resume</a></li>
-                        <li><a href="portfolio.html" class="lnk">Portfolio</a></li>
-                        <li class="active"><a href="contacts.html" class="btn">Contacts</a></li>
+                        <li><a href="resume.php" class="lnk">Resume</a></li>
+                        <li><a href="portfolio.php" class="lnk">Portfolio</a></li>
+                        <li class="active"><a href="contacts.php" class="btn">Contacts</a></li>
                     </ul>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                         <div class="started-content">
                             <div class="h-title glitch-effect" data-text="Contacts">Contacts</div>
                             <div class="h-subtitle typing-bread">
-                                <p><a href="/">Home</a> / <a href="contacts.html">Contacts</a></p>
+                                <p><a href="/">Home</a> / <a href="contacts.php">Contacts</a></p>
                             </div>
                             <span class="typed-bread"></span>
                         </div>

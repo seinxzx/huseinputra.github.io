@@ -84,11 +84,11 @@
                 <div class="top-menu">
                     <ul>
                         <li><a href="/" class="lnk">Home</a></li>
-                        <li><a href="resume.html" class="lnk">Resume</a></li>
+                        <li><a href="resume.php" class="lnk">Resume</a></li>
                         <li class="active">
-                            <a href="portfolio.html" class="lnk">Portfolio</a>
+                            <a href="portfolio.php" class="lnk">Portfolio</a>
                         </li>
-                        <li><a href="contacts.html" class="btn">Contacts</a></li>
+                        <li><a href="contacts.php" class="btn">Contacts</a></li>
                     </ul>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                             <div class="h-subtitle typing-bread">
                                 <p>
                                     <a href="/">Home</a> /
-                                    <a href="portfolio.html">Portfolio</a>
+                                    <a href="portfolio.php">Portfolio</a>
                                 </p>
                             </div>
                             <span class="typed-bread"></span>

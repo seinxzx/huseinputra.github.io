@@ -101,9 +101,9 @@
                 <div class="top-menu">
                     <ul>
                         <li class="active"><a href="/" class="lnk">Home</a></li>
-                        <li><a href="resume.html" class="lnk">Resume</a></li>
-                        <li><a href="portfolio.html" class="lnk">Portfolio</a></li>
-                        <li><a href="contacts.html" class="btn">Contacts</a></li>
+                        <li><a href="resume.php" class="lnk">Resume</a></li>
+                        <li><a href="portfolio.php" class="lnk">Portfolio</a></li>
+                        <li><a href="contacts.php" class="btn">Contacts</a></li>
                     </ul>
                 </div>
             </div>
