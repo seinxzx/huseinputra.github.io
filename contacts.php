@@ -7,16 +7,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Contacts - Husein Putra Widya Pratama</title>
     <meta name="description" content="Husein Putra Widya Pratama , experience in making projects both from the office and as a freelancer" />
-    <meta name="keywords" content="Husein Putra Widya Pratama,Husein,Developer Bogor , portfolio husein" />
+    <meta name="keywords" content="Husein Putra Widya Pratama, Husein, Developer Bogor, Portfolio Husein" />
     <meta name="author" content="Husein Putra Widya Pratama" />
-    <meta name="url" content="https://huseinputra.github.io">
-    <meta name="image" content="https://huseinputra.github.io/img/profile_photo.png">
+    <meta name="url" content="https://seinovation.my.id/">
+    <meta name="image" content="https://seinovation.my.id//img/profile_photo.png">
 
     <meta name="og:type" content="website">
     <meta name="og:title" content="Husein Putra Widya Pratama">
     <meta name="og:description" content="Husein Putra Widya Pratama, Experience in making projects both from the office and as a freelancer.">
-    <meta name="og:url" content="https://huseinputra.github.io">
-    <meta name="og:image" content="https://huseinputra.github.io/img/profile_photo.png">
+    <meta name="og:url" content="https://seinovation.my.id/">
+    <meta name="og:image" content="https://seinovation.my.id//img/profile_photo.png">
     <meta name="og:author" content="Husein Putra Widya Pratama">
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
