@@ -585,12 +585,12 @@
         <!-- Footer -->
         <footer>
             <div class="soc">
-                <a target="_blank" href="#"><span class="ion ion-social-linkedin"></span
+                <a target="_blank" href="https://www.linkedin.com/in/huseinputra/"><span class="ion ion-social-linkedin"></span
           ></a>
-                <a target="_blank" href="#"><span class="ion ion-social-twitter"></span
+                <!-- <a target="_blank" href="#"><span class="ion ion-social-twitter"></span
           ></a>
                 <a target="_blank" href="#"><span class="ion ion-social-github"></span
-          ></a>
+          ></a> -->
                 <a target="_blank" href="https://www.instagram.com/seinn.kiri"><span class="ion ion-social-instagram-outline"></span
           ></a>
             </div>

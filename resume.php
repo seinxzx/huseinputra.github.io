@@ -89,9 +89,9 @@
                 <div class="top-menu">
                     <ul>
                         <li><a href="/" class="lnk">Home</a></li>
-                        <li class="active"><a href="resume.html" class="lnk">Resume</a></li>
-                        <li><a href="portfolio.html" class="lnk">Portfolio</a></li>
-                        <li><a href="contacts.html" class="btn">Contacts</a></li>
+                        <li class="active"><a href="resume.php" class="lnk">Resume</a></li>
+                        <li><a href="portfolio.php" class="lnk">Portfolio</a></li>
+                        <li><a href="contacts.php" class="btn">Contacts</a></li>
                     </ul>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                         <div class="started-content">
                             <div class="h-title glitch-effect" data-text="Resume">Resume</div>
                             <div class="h-subtitle typing-bread">
-                                <p><a href="/">Home</a> / <a href="resume.html">Resume</a></p>
+                                <p><a href="/">Home</a> / <a href="resume.php">Resume</a></p>
                             </div>
                             <span class="typed-bread"></span>
                         </div>
@@ -138,7 +138,7 @@
                                 <li><strong>E-mail:</strong> huseinputrawp@gmail.com</li>
                             </ul>
                         </div>
-                        <div class="bts"><a href="contacts.html" class="btn fill" data-text="Hire Me">Hire Me</a></div>
+                        <div class="bts"><a href="contacts.php" class="btn fill" data-text="Hire Me">Hire Me</a></div>
                     </div>
                     <div class="clear"></div>
                 </div>
@@ -156,12 +156,16 @@
                                 <div class="resume-item active">
                                     <div class="date">2022 - Present</div>
                                     <div class="name">Back End Developer - PT Web Architect Technology</div>
-                                    <p>develop code backend requirements - ongoing</p>
+                                    <p>• Developed web-based applications, including e-commerce and company profile websites, for clients using PHP Laravel.</p><br>
+                                    <p>• Utilized MySQL DB for data storage and retrieval, ensuring efficient and reliable performance. </p><br>
+                                    <p><b> Skills : </b> Easily Adaptable · Programming · Laravel · Object-Oriented Programming (OOP) · PHP</p>
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2019 - 2022</div>
-                                    <div class="name">Programmer - PT. Rembon Karya Digital</div>
-                                    <p> • develop various internal or external web applications according to client needs <br> • Fixed various level of bugs in existing web applications</p>
+                                    <div class="name">Programmer - PT. Rembon Karya Digital</div> 
+                                    <p>• Develop Microservice or Web applications, including internal or external applications and websites, for clients using PHP Laravel/ CI & .NET Core. </p> <br>
+                                    <p>• Fixed various level of bugs in existing web applications</p> <br>
+                                    <p><b>Skills : </b>ASP.NET MVC · ASP.NET Core · Object-Oriented Programming (OOP) · PHP · Microsoft SQL Server · C# · .NET Framework · ASP.NET Web API</p>
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2018</div>
@@ -202,24 +206,21 @@
                             <li>
                                 <div class="name">Web Design</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width:90%;">
-                                        <span class="percent">90%</span>
+                                    <div class="percentage" style="width:90%;"> 
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">Photoshop</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width:75%;">
-                                        <span class="percent">75%</span>
+                                    <div class="percentage" style="width:75%;"> 
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">Graphic Design</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width:80%;">
-                                        <span class="percent">80%</span>
+                                    <div class="percentage" style="width:80%;"> 
                                     </div>
                                 </div>
                             </li>
@@ -239,16 +240,14 @@
                             <li>
                                 <div class="name">Indonesia</div>
                                 <div class="progress ">
-                                    <div class="percentage" style="width: 100%;">
-                                        <span class="percent">100%</span>
+                                    <div class="percentage" style="width: 100%;"> 
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">English</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width: 60%;">
-                                        <span class="percent">60%</span>
+                                    <div class="percentage" style="width: 60%;"> 
                                     </div>
                                 </div>
                             </li>
@@ -270,7 +269,7 @@
                                 <div class="name">HTML + CSS</div>
                                 <div class="progress p98">
                                     <div class="percentage" style="width: 98%;">
-                                        <span class="percent">98%</span>
+                                        <span class="percent">100%</span>
                                     </div>
                                     <span>98%</span>
                                 </div>
@@ -296,19 +295,19 @@
                             <li>
                                 <div class="name">.NET Core</div>
                                 <div class="progress p85">
-                                    <div class="percentage" style="width: 85%;">
-                                        <span class="percent">85%</span>
+                                    <div class="percentage" style="width: 75%;">
+                                        <span class="percent">75%</span>
                                     </div>
-                                    <span>85%</span>
+                                    <span>75%</span>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">Flutter</div>
                                 <div class="progress p78">
-                                    <div class="percentage" style="width: 78%;">
-                                        <span class="percent">78%</span>
+                                    <div class="percentage" style="width: 60%;">
+                                        <span class="percent">60%</span>
                                     </div>
-                                    <span>78%</span>
+                                    <span>60%</span>
                                 </div>
                             </li>
                             <li>
@@ -357,10 +356,10 @@
                                 <div class="name">Website Development</div>
                             </li>
                             <li>
-                                <div class="name">iOS and android apps</div>
+                                <div class="name">Android apps</div>
                             </li>
                             <li>
-                                <div class="name">Create logo design</div>
+                                <div class="name">Project Manager</div>
                             </li>
                             <li>
                                 <div class="name">Critical Thinking</div>
@@ -369,7 +368,7 @@
                                 <div class="name">Problem-Solving</div>
                             </li>
                             <li>
-                                <div class="name">Graphics and animations</div>
+                                <div class="name">Graphics and Animations</div>
                             </li>
                         </ul>
                     </div>
@@ -409,7 +408,7 @@
             </div>
 
             <!-- Clients -->
-            <div class="section clients">
+            <!-- <div class="section clients">
                 <div class="content">
                     <div class="title">
                         <div class="title_inner">Clients</div>
@@ -463,16 +462,16 @@
                     </div>
                     <div class="clear"></div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
 
         <!-- Footer -->
         <footer>
             <div class="soc">
-                <a target="_blank" href="#"><span class="ion ion-social-linkedin"></span></a>
-                <a target="_blank" href="#"><span class="ion ion-social-twitter"></span></a>
-                <a target="_blank" href="#"><span class="ion ion-social-github"></span></a>
+                <a target="_blank" href="https://www.linkedin.com/in/huseinputra/"><span class="ion ion-social-linkedin"></span></a>
+                <!-- <a target="_blank" href="#"><span class="ion ion-social-twitter"></span></a>
+                <a target="_blank" href="#"><span class="ion ion-social-github"></span></a> -->
                 <a target="_blank" href="https://www.instagram.com/seinn.kiri"><span class="ion ion-social-instagram-outline"></span></a>
             </div>
             <div class="copy">© 2019 Husein Putra Widya Pratama. All rights reserved.</div>
