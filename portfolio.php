@@ -29,24 +29,27 @@
     <link rel="stylesheet" href="css/glitche-layout.css" />
     <link rel="stylesheet" href="css/ionicons.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
-    <link rel="stylesheet" href="css/animate.css" /> 
-    <link rel="stylesheet" href="css/template-colors/orange.css" /> 
+    <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="css/template-colors/orange.css" />
     <!--
 		Template Dark
 	-->
     <link rel="stylesheet" href="css/template-dark/dark.css" />
- 
+
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicons/favicon.ico" />
-     <!-- Google tag (gtag.js) -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ0WGD6Q1H"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ0WGD6Q1H"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-    gtag('config', 'G-BJ0WGD6Q1H');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-BJ0WGD6Q1H');
     </script>
 </head>
 
@@ -114,42 +117,38 @@
                         <div class="filters">
                             <div class="btn-group">
                                 <label data-text="All" class="glitch-effect">
-                    <input type="radio" name="fl_radio" value=".box-item" />All
-                  </label>
+                                    <input type="radio" name="fl_radio" value=".box-item" />All
+                                </label>
                             </div>
                             <div class="btn-group">
                                 <label data-text="Apps">
-                    <input type="radio" name="fl_radio" value=".f-apps" />Apps
-                  </label>
+                                    <input type="radio" name="fl_radio" value=".f-apps" />Apps
+                                </label>
                             </div>
                             <div class="btn-group">
                                 <label data-text="Website">
-                    <input
-                      type="radio"
-                      name="fl_radio"
-                      value=".f-website"
-                    />Website
-                  </label>
+                                    <input type="radio" name="fl_radio" value=".f-website" />Website
+                                </label>
                             </div>
                             <div class="btn-group">
                                 <label data-text="UI/UX">
-                    <input type="radio" name="fl_radio" value=".f-uiux" />UI/UX
-                  </label>
+                                    <input type="radio" name="fl_radio" value=".f-uiux" />UI/UX
+                                </label>
                             </div>
                         </div>
                     </div>
 
                     <div class="box-items portfolio-items">
                         <div class="box-item f-apps f-website">
-                            <a href="http://kktpti.org/" target="__blank nofollow">
+                            <a href="http://kktpti.org/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/ktpi-mobile.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -159,15 +158,15 @@
                         </div>
 
                         <div class="box-item f-apps f-website">
-                            <a href="https://www.hondapowerproducts.co.id/" target="__blank nofollow">
+                            <a href="https://www.hondapowerproducts.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/hppi-pow.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -177,15 +176,15 @@
                         </div>
 
                         <div class="box-item f-website">
-                            <a href="https://www.langitseduh.com/" target="__blank nofollow">
+                            <a href="https://www.langitseduh.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/langitseduhh.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -195,15 +194,15 @@
                         </div>
 
                         <div class="box-item f-website">
-                            <a href="https://www.eminacosmetics.com/" target="__blank nofollow">
+                            <a href="https://www.eminacosmetics.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/eminacosmect.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -215,15 +214,15 @@
                         </div>
 
                         <div class="box-item f-website f-apps">
-                            <a href="https://Infina.id/" target="__blank nofollow">
+                            <a href="https://Infina.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/infina.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -233,15 +232,15 @@
                         </div>
 
                         <div class="box-item f-website">
-                            <a href="https://mobiledoctor.id/" target="__blank nofollow">
+                            <a href="https://mobiledoctor.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/mobiledoctor.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -251,15 +250,15 @@
                         </div>
 
                         <div class="box-item f-website f-apps">
-                            <a href="https://play.google.com/store/apps/details?id=com.kompolnas.apps.kompolnas" target="__blank nofollow">
+                            <a href="https://play.google.com/store/apps/details?id=com.kompolnas.apps.kompolnas" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/kompolnas.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -269,15 +268,15 @@
                         </div>
 
                         <div class="box-item f-website f-apps">
-                            <a href="Javascript::void(0)" target="__blank nofollow">
+                            <a href="Javascript::void(0)">
                                 <div class="image">
                                     <img src="img/portfolio/mobile-approval.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ">APLIKASI INTERNAL</span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ">APLIKASI INTERNAL</span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -287,15 +286,15 @@
                         </div>
 
                         <div class="box-item f-website">
-                            <a href="https://www.medirabali.id/" target="__blank nofollow">
+                            <a href="https://www.medirabali.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/mdirabali.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -307,15 +306,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://rsaccountingservices.id/" target="__blank nofollow">
+                            <a href="https://rsaccountingservices.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/rsaccountindonesia.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -327,15 +326,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://www.ptsi.co.id/" target="__blank nofollow">
+                            <a href="https://www.ptsi.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/surveyindonesia.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -345,15 +344,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://eppid.ptsi.co.id/" target="__blank nofollow">
+                            <a href="https://eppid.ptsi.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/eppidsurveyIndonesia.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -365,15 +364,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://ptsmi.co.id/" target="__blank nofollow">
+                            <a href="https://ptsmi.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/ptsmiindonesia.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -385,15 +384,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://pfimegalife.co.id/literasi-keuangan/" target="__blank nofollow">
+                            <a href="https://pfimegalife.co.id/literasi-keuangan" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/literasi-keuangan-pfiblog.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -405,15 +404,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://pfimegalife.co.id/literasi-keuangan/" target="__blank nofollow">
+                            <a href="https://ptpii.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/penjaminfraindonesia.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -425,15 +424,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://sambojalodge.com/" target="__blank nofollow">
+                            <a href="https://sambojalodge.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/samboj.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -443,15 +442,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://akstcc.org/" target="__blank nofollow">
+                            <a href="https://akstcc.org/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/aseanroks.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -461,15 +460,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://eca.ais-indonesia.com/" target="__blank nofollow">
+                            <a href="https://eca.ais-indonesia.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/eca-ais-registr.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -479,15 +478,15 @@
                         </div>
 
                         <div class="box-item f-website ">
-                            <a href="https://www.arkora-hydro.com/" target="__blank nofollow">
+                            <a href="https://www.arkora-hydro.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/arkorahydr.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -496,15 +495,15 @@
                             </a>
                         </div>
                         <div class="box-item f-website ">
-                            <a href="https://www.masuya.co.id/" target="__blank nofollow">
+                            <a href="https://www.masuya.co.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/masuya.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -513,15 +512,15 @@
                             </a>
                         </div>
                         <div class="box-item f-website ">
-                            <a href="https://pertamina-pis.com/" target="__blank nofollow">
+                            <a href="https://pertamina-pis.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/pertaminapis.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -532,15 +531,15 @@
                             </a>
                         </div>
                         <div class="box-item f-website ">
-                            <a href="https://marubeni.id/" target="__blank nofollow">
+                            <a href="https://marubeni.id/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/maruindo.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
@@ -549,19 +548,36 @@
                             </a>
                         </div>
                         <div class="box-item f-website ">
-                            <a href="https://secanabeachtown.com/" target="__blank nofollow">
+                            <a href="https://secanabeachtown.com/" target="_blank nofollow">
                                 <div class="image">
                                     <img src="img/portfolio/secabeach.png" alt="portfolio - Husein Putra Widya Pratama" />
                                     <span class="info">
-                      <span class="centrize full-width">
-                        <span class="vertical-center">
-                          <span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
                                     </span>
                                 </div>
                                 <div class="desc">
                                     <h6 class="name has-popup-gallery">Secana Beachtown</h6>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="box-item f-website ">
+                            <a href="https://bbnairlines.id/" target="_blank nofollow">
+                                <div class="image">
+                                    <img src="img/portfolio/bbn.png" alt="portfolio - Husein Putra Widya Pratama" />
+                                    <span class="info">
+                                        <span class="centrize full-width">
+                                            <span class="vertical-center">
+                                                <span class="ion ion-link"></span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </div>
+                                <div class="desc">
+                                    <h6 class="name has-popup-gallery">BBN Airlines Indonesia</h6>
                                 </div>
                             </a>
                         </div>
@@ -575,14 +591,12 @@
         <!-- Footer -->
         <footer>
             <div class="soc">
-                <a target="_blank" href="https://www.linkedin.com/in/huseinputra/"><span class="ion ion-social-linkedin"></span
-          ></a>
+                <a target="_blank" href="https://www.linkedin.com/in/huseinputra/"><span class="ion ion-social-linkedin"></span></a>
                 <!-- <a target="_blank" href="#"><span class="ion ion-social-twitter"></span
           ></a>
                 <a target="_blank" href="#"><span class="ion ion-social-github"></span
           ></a> -->
-                <a target="_blank" href="https://www.instagram.com/seinn.kiri"><span class="ion ion-social-instagram-outline"></span
-          ></a>
+                <a target="_blank" href="https://www.instagram.com/seinn.kiri"><span class="ion ion-social-instagram-outline"></span></a>
             </div>
             <div class="copy">
                 © 2019 Husein Putra Widya Pratama. All rights reserved.
