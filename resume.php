@@ -112,12 +112,13 @@
                         <img src="img/profile_photo.png" alt="Image Profile" />
                     </div>
                     <div class="desc">
-                        <p>I am a web developer with 3+ years experience, I love to create beautiful and efficient websites and I am someone who likes to learn new things about technology. I've had a lot of experience in making projects both from the office
-                            and as a freelancer.</p>
+                        <p>Hello, my name is Husein Putra Widya Pratama from Bogor. I am a Web and Backend Developer with over 5+ years of
+professional experience. I am continuously enthusiastic about expanding my knowledge in technology. I have extensive
+experience collaborating on diverse projects, both within office environments and as a freelancer.</p>
                         <div class="info-list">
                             <ul>
                                 <li><strong>Name:</strong> Husein Putra Widya P</li>
-                                <li><strong>Age:</strong> 21 Years</li>
+                                <li><strong>Age:</strong> 22 Years</li>
                                 <li><strong>Job:</strong> Back End Developer</li>
                                 <li><strong>Citizenship:</strong> Indonesia</li>
                                 <li><strong>Residence: </strong> Bogor, Jawa Barat</li>
@@ -144,7 +145,7 @@
                                     <div class="name">Back End Developer - PT Web Architect Technology</div>
                                     <p>• Developed web-based applications, including e-commerce and company profile websites, for clients using PHP Laravel.</p><br>
                                     <p>• Utilized MySQL DB for data storage and retrieval, ensuring efficient and reliable performance. </p><br>
-                                    <p><b> Skills : </b> Easily Adaptable · Programming · Laravel · Object-Oriented Programming (OOP) · PHP</p>
+                                    <p><b> Skills : </b> Easily Adaptable · Programming · Laravel · Object-Oriented Programming (OOP) · PHP - NestJS</p>
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2019 - 2022</div>
@@ -381,12 +382,12 @@
                         <div class="service-item">
                             <div class="icon"><span class="ion ion-code"></span></div>
                             <div class="name">Programming</div>
-                            <p>development is actually not exactly what most people say but it is the first thing I learned in IT world, I've been standing in this field for about 3+ years professionally.</p>
+                            <p>development is actually not exactly what most people say but it is the first thing I learned in IT world, I've been standing in this field for about 5+ years professionally.</p>
                         </div>
                         <div class="service-item">
                             <div class="icon"><span class="ion ion-help-buoy"></span></div>
                             <div class="name">Project Management</div>
-                            <p>I am a certified project manager by PMI. I have also been scrum trained and worked on an agile team for over a 3 years.</p>
+                            <p>I have also been scrum trained and worked on an agile team for over a 3 years.</p>
                         </div>
 
                     </div>
