@@ -1,88 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <!-- Basic -->
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Resume - Husein Putra Widya Pratama</title>
-    <meta name="description" content="Husein Putra Widya Pratama , experience in making projects both from the office and as a freelancer" />
-    <meta name="keywords" content="Husein Putra Widya Pratama,Husein,Developer Bogor , portfolio husein" />
-    <meta name="author" content="Husein Putra Widya Pratama" />
-    <meta name="url" content="https://seinovation.my.id/">
-    <meta name="image" content="https://seinovation.my.id//img/profile_photo.png">
-
-    <meta name="og:type" content="website">
-    <meta name="og:title" content="Husein Putra Widya Pratama">
-    <meta name="og:description" content="Husein Putra Widya Pratama, Experience in making projects both from the office and as a freelancer.">
-    <meta name="og:url" content="https://seinovation.my.id/">
-    <meta name="og:image" content="https://seinovation.my.id//img/profile_photo.png">
-    <meta name="og:author" content="Husein Putra Widya Pratama">
-
-    <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
-    <!-- Load Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,100,300italic,300,100italic,400italic,500,500italic,700,700italic&amp;subset=latin,cyrillic' rel='stylesheet'>
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/glitche-basic.css" />
-    <link rel="stylesheet" href="css/glitche-layout.css" />
-    <link rel="stylesheet" href="css/ionicons.css" />
-    <link rel="stylesheet" href="css/magnific-popup.css" />
-    <link rel="stylesheet" href="css/animate.css" />
-    <link rel="stylesheet" href="css/template-colors/orange.css" /> 
-    <link rel="stylesheet" href="css/template-dark/dark.css" />
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="images/favicons/favicon.ico">
-
-     <!-- Google tag (gtag.js) -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ0WGD6Q1H"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-BJ0WGD6Q1H');
-    </script>
-
-</head>
-
-<body>
-
-    <!-- Preloader -->
-    <div class="preloader">
-        <div class="centrize full-width">
-            <div class="vertical-center">
-                <div class="pre-inner">
-                    <div class="load typing-load">
-                        <p>loading...</p>
-                    </div>
-                    <span class="typed-load"></span>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container -->
-    <div class="container">
-
-        <!-- Header -->
-        <header>
-            <div class="head-top">
-                <a href="#" class="menu-btn"><span></span></a>
-                <div class="top-menu">
-                    <ul>
-                        <li><a href="/" class="lnk">Home</a></li>
-                        <li class="active"><a href="resume.php" class="lnk">Resume</a></li>
-                        <li><a href="portfolio.php" class="lnk">Portfolio</a></li>
-                        <li><a href="contacts.php" class="btn">Contacts</a></li>
-                    </ul>
-                </div>
-            </div>
-        </header>
-
+<?php
+$title = 'Resume  | Husein Putra Widya Pratama';
+$active = 'resume';
+echo include('view/component/header.php');
+?>
         <!-- Wrapper -->
         <div class="wrapper">
 
@@ -112,16 +32,17 @@
                         <img src="img/profile_photo.png" alt="Image Profile" />
                     </div>
                     <div class="desc">
-                        <p>I am a web developer with 3+ years experience, I love to create beautiful and efficient websites and I am someone who likes to learn new things about technology. I've had a lot of experience in making projects both from the office
-                            and as a freelancer.</p>
+                        <p>I'm Husein, a software engineer with lots of experience in different industries, mainly focusing on backend engineering. What I enjoy most about being a software engineer is constantly learning new technologies, connecting with different people, and broadening my perspectives. It's what keeps me excited about this journey.</p>
                         <div class="info-list">
                             <ul>
                                 <li><strong>Name:</strong> Husein Putra Widya P</li>
-                                <li><strong>Age:</strong> 21 Years</li>
-                                <li><strong>Job:</strong> Back End Developer</li>
-                                <li><strong>Citizenship:</strong> Indonesia</li>
-                                <li><strong>Residence: </strong> Bogor, Jawa Barat</li>
                                 <li><strong>E-mail:</strong> huseinputrawp@gmail.com</li>
+                                <li><strong>Number Phone:</strong> +62 821 2707-4919</li>
+                                <li><strong>Age:</strong> 23 Years</li> 
+                                <li><strong>Job:</strong> Software Engineer</li> 
+                                <li><strong>Address: </strong> Bogor, Jawa Barat</li>
+                               
+
                             </ul>
                         </div>
                         <div class="bts"><a href="contacts.php" class="btn fill" data-text="Hire Me">Hire Me</a></div>
@@ -140,23 +61,22 @@
                             </div>
                             <div class="resume-items">
                                 <div class="resume-item active">
-                                    <div class="date">2022 - Present</div>
+                                    <div class="date">2022 - 2024</div>
                                     <div class="name">Back End Developer - PT Web Architect Technology</div>
-                                    <p>• Developed web-based applications, including e-commerce and company profile websites, for clients using PHP Laravel.</p><br>
-                                    <p>• Utilized MySQL DB for data storage and retrieval, ensuring efficient and reliable performance. </p><br>
-                                    <p><b> Skills : </b> Easily Adaptable · Programming · Laravel · Object-Oriented Programming (OOP) · PHP</p>
+                                    <p>• Developed web-based applications, including ecommerce and company profile websites.</p><br>
+                                    <p>• Utilized Database for data storage and retrieval, ensuring efficient and reliable performance. </p><br> 
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2019 - 2022</div>
                                     <div class="name">Programmer - PT. Rembon Karya Digital</div> 
-                                    <p>• Develop Microservice or Web applications, including internal or external applications and websites, for clients using PHP Laravel/ CI & .NET Core. </p> <br>
+                                    <p>• Develop web or desktop-based applications, including internal applications and websites. </p> <br>
                                     <p>• Fixed various level of bugs in existing web applications</p> <br>
-                                    <p><b>Skills : </b>ASP.NET MVC · ASP.NET Core · Object-Oriented Programming (OOP) · PHP · Microsoft SQL Server · C# · .NET Framework · ASP.NET Web API</p>
+                                    <p>* Develop Micro service</p>
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2018</div>
                                     <div class="name">Junior Programmer - PT. Lattice Teknologi Mandiri</div>
-                                    <p>ndustrial Work Practice for 6 months as a Web Developer</p>
+                                    <p>Develop and Maintenance Application</p>
                                 </div>
                             </div>
                         </div>
@@ -168,12 +88,11 @@
                                 <div class="resume-item">
                                     <div class="date">2020 - 2024</div>
                                     <div class="name">Information Systems - Universitas Binaniaga Indonesia</div>
-                                    <p>learn to identify the needs and business processes that exist in the company which is then continued to design a system that suits the needs of the company.</p>
+                                    <p> GPA 3.54/4.00</p>
                                 </div>
                                 <div class="resume-item">
                                     <div class="date">2016 - 2019 </div>
                                     <div class="name">Software engineering - SMK Wikrama Bogor</div>
-                                    <p>study and explore all ways of software development including creation, maintenance, software development organization management and quality management.</p>
                                 </div>
                             </div>
                         </div>
@@ -181,40 +100,7 @@
                 </div>
             </div>
 
-            <!-- Skills -->
-            <div class="section skills">
-                <div class="content">
-                    <div class="title">
-                        <div class="title_inner">Design Skills</div>
-                    </div>
-                    <div class="skills">
-                        <ul>
-                            <li>
-                                <div class="name">Web Design</div>
-                                <div class="progress">
-                                    <div class="percentage" style="width:90%;"> 
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="name">Photoshop</div>
-                                <div class="progress">
-                                    <div class="percentage" style="width:75%;"> 
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="name">Graphic Design</div>
-                                <div class="progress">
-                                    <div class="percentage" style="width:80%;"> 
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
+          
             <!-- Skills -->
             <div class="section skills">
                 <div class="content">
@@ -233,7 +119,7 @@
                             <li>
                                 <div class="name">English</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width: 60%;"> 
+                                    <div class="percentage" style="width: 40%;"> 
                                     </div>
                                 </div>
                             </li>
@@ -247,40 +133,31 @@
             <div class="section skills">
                 <div class="content">
                     <div class="title">
-                        <div class="title_inner">Coding Skills</div>
+                        <div class="title_inner">Programming Skills</div>
                     </div>
                     <div class="skills circles">
                         <ul>
                             <li>
-                                <div class="name">HTML + CSS</div>
+                                <div class="name">HTML|CSS|JS</div>
                                 <div class="progress p98">
                                     <div class="percentage" style="width: 98%;">
                                         <span class="percent">100%</span>
                                     </div>
                                     <span>98%</span>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="name">Javascript</div>
-                                <div class="progress p95">
-                                    <div class="percentage" style="width: 95%;">
-                                        <span class="percent">95%</span>
-                                    </div>
-                                    <span>95%</span>
-                                </div>
-                            </li>
+                            </li> 
                             <li>
                                 <div class="name">PHP</div>
-                                <div class="progress p97">
-                                    <div class="percentage" style="width: 97%;">
-                                        <span class="percent">97%</span>
+                                <div class="progress p99">
+                                    <div class="percentage" style="width: 99%;">
+                                        <span class="percent">99%</span>
                                     </div>
-                                    <span>97%</span>
+                                    <span>99%</span>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">.NET Core</div>
-                                <div class="progress p85">
+                                <div class="progress p75">
                                     <div class="percentage" style="width: 75%;">
                                         <span class="percent">75%</span>
                                     </div>
@@ -289,7 +166,52 @@
                             </li>
                             <li>
                                 <div class="name">Flutter</div>
-                                <div class="progress p78">
+                                <div class="progress p40">
+                                    <div class="percentage" style="width: 40%;">
+                                        <span class="percent">40%</span>
+                                    </div>
+                                    <span>40%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">Node.js</div>
+                                <div class="progress p50">
+                                    <div class="percentage" style="width: 50%;">
+                                        <span class="percent">50%</span>
+                                    </div>
+                                    <span>50%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">Nest JS</div>
+                                <div class="progress p50">
+                                    <div class="percentage" style="width: 50%;">
+                                        <span class="percent">50%</span>
+                                    </div>
+                                    <span>50%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">Typescript</div>
+                                <div class="progress p40">
+                                    <div class="percentage" style="width: 40%;">
+                                        <span class="percent">40%</span>
+                                    </div>
+                                    <span>40%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">TailwindCSS</div>
+                                <div class="progress p80">
+                                    <div class="percentage" style="width: 80%;">
+                                        <span class="percent">80%</span>
+                                    </div>
+                                    <span>80%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">React</div>
+                                <div class="progress p60">
                                     <div class="percentage" style="width: 60%;">
                                         <span class="percent">60%</span>
                                     </div>
@@ -297,7 +219,7 @@
                                 </div>
                             </li>
                             <li>
-                                <div class="name">SQL (MySQL, SQL Server, Postgres)</div>
+                                <div class="name">SQL (MySQL|SQL Server|Postgres)</div>
                                 <div class="progress p96">
                                     <div class="percentage" style="width: 96%;">
                                         <span class="percent">96%</span>
@@ -330,159 +252,59 @@
                 </div>
             </div>
 
-            <!-- Skills -->
-            <div class="section skills">
+             <!-- Skills -->
+             <div class="section skills">
                 <div class="content">
                     <div class="title">
-                        <div class="title_inner">Knowledge</div>
+                        <div class="title_inner">Other Skills</div>
                     </div>
-                    <div class="skills list">
+                    <div class="skills circles">
                         <ul>
                             <li>
-                                <div class="name">Website Development</div>
+                                <div class="name">Microsoft Office</div>
+                                <div class="progress p98">
+                                    <div class="percentage" style="width: 98%;">
+                                        <span class="percent">90%</span>
+                                    </div>
+                                    <span>90%</span>
+                                </div>
                             </li>
                             <li>
-                                <div class="name">Android apps</div>
+                                <div class="name">Photoshop</div>
+                                <div class="progress p80">
+                                    <div class="percentage" style="width: 80%;">
+                                        <span class="percent">80%</span>
+                                    </div>
+                                    <span>80%</span>
+                                </div>
                             </li>
                             <li>
-                                <div class="name">Project Manager</div>
+                                <div class="name">Adobe Premie</div>
+                                <div class="progress p65">
+                                    <div class="percentage" style="width: 65%;">
+                                        <span class="percent">65%</span>
+                                    </div>
+                                    <span>65%</span>
+                                </div>
                             </li>
                             <li>
-                                <div class="name">Critical Thinking</div>
+                                <div class="name">Adobe After Effect</div>
+                                <div class="progress p70">
+                                    <div class="percentage" style="width: 70%;">
+                                        <span class="percent">70%</span>
+                                    </div>
+                                    <span>70%</span>
+                                </div>
                             </li>
-                            <li>
-                                <div class="name">Problem-Solving</div>
-                            </li>
-                            <li>
-                                <div class="name">Graphics and Animations</div>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
             </div>
-
-            <!-- Service -->
-            <div class="section service">
-                <div class="content">
-                    <div class="title">
-                        <div class="title_inner">My Services</div>
-                    </div>
-                    <div class="service-items">
-                        <div class="service-item">
-                            <div class="icon"><span class="ion ion-ios-search-strong"></span></div>
-                            <div class="name">System Analyst</div>
-                            <p>conducting research, planning, coordinating and recommending software and systems that suit the needs of the organization or company</p>
-                        </div>
-                        <div class="service-item">
-                            <div class="icon"><span class="ion ion-gear-b"></span></div>
-                            <div class="name">Data Analysis</div>
-                            <p> have the ability to understand large complex data. I can leverage various applications to simplify and visualize data to make informed business decisions.</p>
-                        </div>
-                        <div class="service-item">
-                            <div class="icon"><span class="ion ion-code"></span></div>
-                            <div class="name">Programming</div>
-                            <p>development is actually not exactly what most people say but it is the first thing I learned in IT world, I've been standing in this field for about 3+ years professionally.</p>
-                        </div>
-                        <div class="service-item">
-                            <div class="icon"><span class="ion ion-help-buoy"></span></div>
-                            <div class="name">Project Management</div>
-                            <p>I am a certified project manager by PMI. I have also been scrum trained and worked on an agile team for over a 3 years.</p>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-            <!-- Clients -->
-            <!-- <div class="section clients">
-                <div class="content">
-                    <div class="title">
-                        <div class="title_inner">Clients</div>
-                    </div>
-                    <div class="box-items">
-                        <div class="box-item">
-                            <div class="image">
-                                <a href="javascript::void(0)" style="background-color: black; padding: 10px;">
-                                    <img src="img/clients/client-pertamina-white.png" width="200" height="60" alt="Image " />
-                                    <span class="info">
-										<span class="centrize full-width">
-											<span class="vertical-center">
-												<span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="box-item">
-                            <div class="image">
-                                <a href="javascript::void(0)" style="background-color: black; padding: 10px;">
-                                    <img src="img/clients/client-kandi-imaji.webp" width="200" height="60" alt="Image " />
-                                    <span class="info">
-										<span class="centrize full-width">
-											<span class="vertical-center">
-												<span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="box-item">
-                            <div class="image">
-                                <a href="javascript::void(0)" style="background-color: black; padding: 10px;">
-                                    <img src="img/clients/logo_harisenin.svg" width="200" height="60" alt="Image " />
-                                    <span class="info">
-										<span class="centrize full-width">
-											<span class="vertical-center">
-												<span class="ion ion-link"></span>
-                                    </span>
-                                    </span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-
-
-                    </div>
-                    <div class="clear"></div>
-                </div>
-            </div> -->
-
+ 
         </div>
 
-        <!-- Footer -->
-        <footer>
-            <div class="soc">
-                <a target="_blank" href="https://www.linkedin.com/in/huseinputra/"><span class="ion ion-social-linkedin"></span></a>
-                <!-- <a target="_blank" href="#"><span class="ion ion-social-twitter"></span></a>
-                <a target="_blank" href="#"><span class="ion ion-social-github"></span></a> -->
-                <a target="_blank" href="https://www.instagram.com/seinn.kiri"><span class="ion ion-social-instagram-outline"></span></a>
-            </div>
-            <div class="copy">© 2019 Husein Putra Widya Pratama. All rights reserved.</div>
-            <div class="clr"></div>
-        </footer>
-
-        <!-- Lines -->
-        <div class="line top"></div>
-        <div class="line bottom"></div>
-        <div class="line left"></div>
-        <div class="line right"></div>
-
-    </div>
-
-    <!-- jQuery Scripts -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.validate.js"></script>
-    <script src="js/typed.js"></script>
-    <script src="js/magnific-popup.js"></script>
-    <script src="js/imagesloaded.pkgd.js"></script>
-    <script src="js/isotope.pkgd.js"></script>
-
-    <!-- Main Scripts -->
-    <script src="js/glitche-scripts.js"></script>
-
-</body>
-
-</html>
+        <?=
+include('view/component/footer.php');
+?>
+      
